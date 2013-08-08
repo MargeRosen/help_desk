@@ -1,5 +1,5 @@
 == README  Help Desk
 
-Users can create an email from this app requesting help and send that email to this app's helpdesk.
-Help Desk gill receive the email and the reply displays on Help Desk's website.
+Users can create an email from this app requesting help and send that email to this app's help desk.
+Help Desk will receive the email and the reply will display on Help Desk's website.
 
