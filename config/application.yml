@@ -1,0 +1,5 @@
+# Add application configuration variables here, as shown below.
+
+#GMAIL is used for Devise confirmation emails in development (not in prod)
+GMAIL_USERNAME: "your_actual_username@gmail.com"
+GMAIL_PASSWORD: "your_actual_password"
